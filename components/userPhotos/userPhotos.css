@@ -1,0 +1,9 @@
+.carousel-item {
+    position: relative;
+}
+
+.carousel-item img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
